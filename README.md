@@ -1,17 +1,17 @@
 
 
-# Mon Portfolio - [Votre Nom]
+# Mon Portfolio - Rossignol Loïc
 
 ## 🚀 À propos de moi
 
-Bonjour ! Je suis [Votre Nom], un jeune développeur passionné par la création d'applications web modernes et interactives. Ce portfolio présente mes compétences et projets en développement web, utilisant HTML, CSS et JavaScript.
+Bonjour ! Je suis Loïc Rossignol, un jeune développeur passionné par la création d'applications web modernes et interactives. Ce portfolio présente mes compétences et projets en développement web, utilisant HTML, CSS et JavaScript.
 
 ## 💻 Technologies utilisées
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
-- [Autres technologies/frameworks que vous avez utilisés]
+- JavaScript 
+
 
 ## 🛠️ Projets
 
@@ -31,25 +31,25 @@ Bonjour ! Je suis [Votre Nom], un jeune développeur passionné par la création
 
 ## 🌟 Compétences
 
-- Développement Front-end
+- Développement Full Stack
 - Design Responsive
-- [Autres compétences pertinentes]
+
 
 ## 📚 Formation
 
-- [Votre formation ou diplôme en cours/obtenu]
-- [Certifications pertinentes]
+- Developpeur Web et web mobile
+
 
 ## 📞 Contact
 
-- Email : [votre@email.com]
-- LinkedIn : [Votre profil LinkedIn]
-- GitHub : [Votre profil GitHub]
+- Email : loic.rossignol66@gmail.com
+- LinkedIn : https://www.linkedin.com/in/lo%C3%AFc-rossignol-794644228/
+- GitHub : https://github.com/loic66600
 
 ## 🔗 Liens
 
-- [Lien vers votre CV en ligne]
-- [Lien vers votre blog personnel (si vous en avez un)]
+- https://loic66600.github.io/Portfolio-personel/
+
 
 ## 🚀 Comment exécuter ce projet localement
 
