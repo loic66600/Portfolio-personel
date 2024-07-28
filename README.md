@@ -11,28 +11,39 @@ Bonjour ! Je suis Loïc Rossignol, un jeune développeur passionné par la créa
 - HTML5
 - CSS3
 - JavaScript 
+- EmailJS
 
 
 ## 🛠️ Projets
 
-### [Nom du Projet 1]
-- Description brève du projet
-- Technologies utilisées
-- Lien vers le projet en direct
-- Lien vers le code source (si disponible)
+### Robbie-Lens
+- Site vitrine pour une photographe professionnelle. Présentation de ses services, galerie dephotos et formulaire de contact pourlesclients potentiels.  
+- HTML5, CSS3
+- https://loic66600.github.io/Robbie-Lens/
+- https://github.com/loic66600/Robbie-Lens
 
-### [Nom du Projet 2]
-- Description brève du projet
-- Technologies utilisées
-- Lien vers le projet en direct
-- Lien vers le code source (si disponible)
+### TechRescue
+- Application web pour un service de dépannage informatique. Interface utilisateur intuitive permettant aux clients de décrire leur problème et de planifier une intervention.
+- Symfony, Twig, Bootstrap
+- https://github.com/loic66600/Tp-TechRescue
 
-[Ajoutez d'autres projets de la même manière]
+### Papa pizza
+- Site de commande en ligne pour une pizzeria. Interface conviviale permettant aux clients de personnaliser leurs pizzas, passer commande et suivre la livraison en temps réel.
+- HTML5, CSS3
+- https://loic66600.github.io/pizza/
+- https://github.com/loic66600/pizza
 
 ## 🌟 Compétences
 
 - Développement Full Stack
 - Design Responsive
+- Html5, CSS3, JavaScript
+- Symfony, Twig, Bootstrap
+- React,  
+- PHP, MYSQL, Docker
+- GitHub, Figma
+- EmailJS
+
 
 
 ## 📚 Formation
