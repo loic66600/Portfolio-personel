@@ -14,7 +14,7 @@
 }
 ::-webkit-scrollbar{
     width: 4px;
-    color:#035aa6;
+    color:#035aa6 ;
     transition: all .4s ease;
 }
 ::-webkit-scrollbar-thumb {
@@ -315,7 +315,7 @@ body{
 }
 .social-media{
     color: white;
-    width:  21px;
+    width:  30px;
     ;
     opacity: .6;
     margin: 8px;
@@ -417,6 +417,12 @@ body{
 .color{
     color: #035aa6;
     transition: all .4s ease;
+}
+.mailto{
+    color: #035aa6;
+    transition: all .4s ease;
+    margin: 10px;
+    height: 30px;
 }
 #about{
     background-color: #101010;
@@ -1363,6 +1369,64 @@ form button:hover{
   list-style: none;
 }
 
+ 
+#skills {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ 
+.skills-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+ 
+.skills-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+ 
+.skill {
+    display: flex;
+    justify-content: space-between;
+    width: 60%; /* Réduit de 80% à 60% (3/4 de la largeur précédente) */
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #191919;;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+ 
+.skill-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    margin: 0 5px;
+}
+ 
+.skills {
+    width: 85px; /* Légèrement réduit pour s'adapter à la nouvelle largeur */
+    height: 85px;
+    margin-bottom: 8px;
+    transition: transform 0.3s ease; /* Ajoute une transition pour l'effet de zoom */
+}
+ 
+.skills:hover {
+    transform: scale(1.3); /* Effet de zoom */
+}
+ 
+.skill-name {
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    font-size: 14px; /* Légèrement réduit pour s'adapter à la nouvelle largeur */
+}
 /*
 
 For devices with smaller width like mobile phone
