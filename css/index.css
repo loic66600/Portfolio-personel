@@ -1095,16 +1095,16 @@ padding-bottom: 40px;
     font-size: 18px;
 }
 .contact-content{
-    width: 90%;
+    width: 100%;
     margin: auto;
     height: auto;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 .contact-info{
-    width: 40%;
+    width: 80%;
     height: 500px;
     background: url(../images/playa.jpg);
     background-position: center;
@@ -2226,7 +2226,7 @@ for tabs and large phones
                 justify-content: center;
             }
             .contact-info{
-                width: 70%;
+                width: 80%;
                 height: 500px;
                 background-position: center;
                 background-size: cover;
@@ -2549,12 +2549,12 @@ for tabs and large phones
         margin: auto;
         height: auto;
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
     }
     .contact-info{
-        width: 40%;
+        width: 80%;
         height: 600px;
         background-position: center;
         background-size: cover;
@@ -2575,7 +2575,7 @@ for tabs and large phones
         pointer-events: none;
     }
     .contact-form{
-        height: 600px;
+        height: 400px;
         width: 60%;
         display: flex;
         flex-direction: column;
