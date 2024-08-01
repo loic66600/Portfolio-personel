@@ -635,8 +635,9 @@
                     <div class="form-header">
                         Envoie moi un message
                     </div>
-                    <div  >
-                        <a class="mailto" href="Mailto:loic.rossignol66@gmail.com"><span class="color"><img class="mailto" src="images/mail.png" alt="email-pic" ></span></a>                            
+                    <div>
+                        <a class="mailto" href="Mailto:loic.rossignol66@gmail.com"><span class="color"><img
+                                    class="mailto" src="images/mail.png" alt="email-pic"></span></a>
                     </div>
                     <form id="contact-form">
                         <div class="input-line">
@@ -646,6 +647,9 @@
                         <input type="text" id="subject" placeholder="Sujet" class="input-subject" required>
                         <textarea id="message" class="input-textarea" placeholder="Message" required></textarea>
                         <button type="submit" id="submit" onclick="sendMail()">Envoyer</button>
+                        <div id="success-message" style="display: none; color: green;">Message envoyé avec succès!</div>
+                        <div id="error-message" style="display: none; color: red;">Erreur lors de l'envoi du message.
+                        </div>
                     </form>
                 </div>
                 <!--Contact form-->
